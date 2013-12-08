@@ -36,4 +36,9 @@ public class Instruction {
 		return map;
 	}
 
+	// 刷新
+	public Map<String, String> logincheck() {
+		return map;
+	}
+
 }

@@ -4,14 +4,14 @@
 		<!-- token值 -->
 		<api_token>21a7a64028e1ac243a6e23a7b2242ead64359b4c</api_token>
 		<!-- 舰队编号 -->
-		<api_deck_id>3</api_deck_id>
+		<api_deck_id>2</api_deck_id>
 		<!-- 任务编号 -->
-		<api_mission_id>5</api_mission_id>
+		<api_mission_id>3</api_mission_id>
 		<!-- 任务时间（毫秒） -->
-		<time>5400000</time>
+		<time>1230000</time>
 		<!-- 服务器 IP -->
 		<ip>125.6.189.7</ip>
-        <!-- 是否记录日志 1:开启 0:关闭 -->
+		<!-- 是否记录日志 1:开启 0:关闭 -->
 		<debug>1</debug>
 	</VALUE>
 </CONFIG>
